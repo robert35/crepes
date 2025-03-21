@@ -1,0 +1,107 @@
+
+Jean-Paul Vallée
+1 boulevard villebois mareuil
+35200 Rennes
+jeanpaul.vallee1@gmail.com
+06 78 05 20 22
+Permis B
+Mobilité : France entière & international
+
+
+reconversion professionnelle 
+
+(anciennement Ingénieur langages et systèmes informatiques)
+Formations et autres compétences
+2023 : Formation de 2 semaines au métier de crêpier à l’école EMC2 de Rennes, dont une semaine complète dans le restaurant d’application : 30 couverts/jour, 4 crêpiers, 1 menu différent par jour.
+2002 : Diplôme d'Ingénieur en Informatique et Communications option Langages et Systèmes Informatiques obtenu à l’IFSIC à Rennes.
+1999 : DEUG MIAS mention ab (Mathématiques et informatiques appliqués aux sciences) obtenu à l’université de Rennes 1.
+Projets
+2023 – projet personnel : refonte cuisine – Mon appartement / Rennes
+
+J’ai refait la cuisine de mon appartement :
+-déconstruction de l’existant : abattage du mur et du placard, déblayage des gravats, enlèvement plaque, évier, robinetterie et tuyauterie, 
+-reconstruction : mise au propre des murs (plâtrerie et mur placo), mise en place d’un plan de travail et ajustement, insertion d’une plaque de cuisson, d’un nouvel évier, de nouvelles lampes, mise en place de la tuyauterie, raccordements électriques, fixations murs, carrelage, jointages, ...
+   
+2007-2023 – projets IMAG’IN/OCEAN/CYCLADES – Rennes
+Informaticien a la DSII-N (Service informatique du Rectorat de Rennes qui met en œuvre les outils informatiques (logiciels, ...) servant à gérer les examens et concours en France/Toutes académies) en lien avec la DGESCO et la MPE
+Travail de Faussaire, 
+Décision prise : Partir
+ 
+
+2007-2008 (3 mois) - projet Telefonika – Madrid
+Ingénieur consultant à Madrid pour Thomson-GrassValley
+Installation et configuration du système GrassValley de broadcast video MPEG4 sur IP.
+Mission dans un contexte serein mais stressant ou la moindre panne a des conséquences économiques lourdes et immédiates (pénalités contractuelles).
+J’ai installé et configuré le matériel, exécuté différents tests (unitaires, intégration, redondance, de bout en bout), participé à la recette, et aidé à la gestion et à la maintenance (XMS, alarmes, pannes…).
+Outils:		Outils interne Thomson d’analyse des flux, vlc, scripts, telnet, …
+Matériel:		Décodeurs satellites (IRD), égaliseurs son (Jungers), encodeurs MPEG4 (Vibe), Routeur Cisco, Grille de redondance (Trinix 256x256)...
+Langages:		Espagnol, anglais, français.
+Equipe de travail :	5 ingénieurs sur site
+Projet GrassValley de plusieurs millions d’euros (ordre de grandeur estimé).
+
+2007 (3 mois) - ARS - Rennes
+Détaché au service validation de la société
+J’ai participé à divers projets, notamment Streamezzo et Philips dans lesquels j’ai pu gérer de bout en bout l’exécution des tests et les contacts avec le client. J’ai aussi réalisé l’étude préparatoire à un appel d’offre de test en téléphonie mobile ou mes compétences Java ont été mises à contribution (préparation d’un outil d’automatisation de requêtage http sur plateforme mobile).
+Streamezzo : Test de qualification de téléphone mobile
+Philips : Test d’intégration de téléphone sans fils
+VIACCESS : Exécution des tests, Réalisation de fiches de Bug sur MANTIS, Rédaction de rapport de bug
+
+
+
+
+Outils :		Test director, Quality Center, Mantis
+Matériel:		Décodeurs DVB-T
+Langage:		Français.
+Outils:		Netbeans, MIDP2.0, JSR211 (Java)
+Matériel :		Postes Windows 2000 / NT server
+Equipe de travail	20 ingénieurs et techniciens au sein de la société
+Projets de quelques milliers d’euros
+
+2005 (2 ans) – Argédis TOTAL - Rennes
+Hôte de caisse
+Hôte de caisse à la station Total de Bain De Bretagne sur la RN137
+Rempotage de la marchandise, 
+Gestion DLC, 
+Gestion de la caisse (tenue de la caisse, compte de fin de caisse), 
+Entretien extérieur (espace vert, mégots, balayage, tonte pelouse (tondeuse et aussi véhicule), coupe et entretien des haies, …), 
+Gestion des stress clients, gestion tentative d’escroquerie au billet, gestion vols, 
+Quelquefois en liaison avec la gendarmerie, 
+Sécurité incendie (extinction d’une voiture en feu arrêtée devant les pompes de la station service)… (formation incendie reçue)
+Tenue du Snacking les périodes estivales (coups de feux, frites, cuisson des steaks, cuisson des viennoiseries, mise en assiette, service au client, ...)
+
+Stages
+Février 2002 / Juillet 2005 - THALES Communications – CHOLET
+Automatisation des tests de non-régression sur un système de boîtiers de chiffrement IP (version civile)
+J’ai réalisé l’étude et la mise en oeuvre d'une plateforme d’automatisation de tests, créé certains outils spécifiques nécessaires (outil de capture et analyse des trames, un interpréteur de script), écriture d’une bibliothèque dédiée facilitant l’écriture des scripts d’automatisation, une vingtaine de tests représentatifs ont étés automatisés avant la fin du stage.
+Outils:		C/C++, MFC, UML, visual test…
+Matériel:		Postes NT. 
+Langages:		Français, Anglais. 
+Equipe de travail	3 ingénieurs
+Projet de plusieurs millions d’euros (ordre de grandeur estimé).
+Octobre 2001 / Décembre 2001 - IRISA - Rennes 
+Validation de tests par mutations de fichiers  Société 
+Évolution d’un projet déjà existant : extension aux systèmes de classes de la validation de tests par mutations de fichiers (validation des tests dans la détection des erreurs introduites volontairement dans les fichiers sources du programme).
+Outils:	Java, cvs, JUnit, UML...
+Matériel : 	Postes NT et Solaris.
+Langages :	Français.
+Stage en laboratoire sans considérations de coûts.
+Été 2000 (2 mois) - Business Engineering Group – Université de Southampton (GB)
+Optimisation de coûts logistique
+Mise en œuvre d’un algorithme d’optimisation de coûts logistique (LOROM) défini par Lilian Barros en implémentant un algorithme de type « branch & bound » à destination du MOD.
+Outils:	Fortan, pascal, visual basic...
+Matériel : 	Postes Windows 95.
+Langages :	Anglais.
+
+Compétences techniques 
+Langages			Java, UML, C/C++, Eiffel, CAML, Scheme, Pascal, Assembleur x86, UML 
+Logiciels			Bureautique, Internet, IDE
+SGBD			langage SQL, utilisation basique des bases mysql et mongodb, outils (dbvisualizer…)
+Messagerie			Thunderbird, outlook
+Plates-formes / Systèmes		Linux debian, windows NT, XP, 2000
+Réseau			Protocoles IP, firewall (iptables/netfilter)
+Tests				Junit, Visual test, Salomé, Mantis, TestDirector...
+IHM	MVC, PAC, PAC-Amodeus (Mise en oeuvre JAVA), Netbeans, Eclipse, Objecteering, Visual C++, 
+visual basic, TCL-TK
+Autres			J2EE, J2ME, intelligence artificielle, théorie des langages, théorie des graphes…notions : Blender, opengl…
+Informations complémentaires
+RAS
